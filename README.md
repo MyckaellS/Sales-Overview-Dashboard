@@ -1,14 +1,14 @@
-# Sales-Overview-Dashboard
+# Sales Overview Dashboard
 
 ## Objective
 
-The Cafe Sales Cleanup project aimed to create a useable data for practical use. The primary focus was to fill in missing values as accurately as possible. This experience was designed to widen my knowledge in different ways to accomplish the dame task.
+The Sales Overview Dashboard project aimed to create an interactive dashboard that provides simple yet effective information through a clean medium. The primary focus was to minimize clutter while maintaining effectiveness. This experience was designed to explore the capabilities of Tableau.
 
 ### Skills Learned
 
-- Ability to identify different types of missing data.
-- Different techniques to impute data.
-- Data cleaning tools in excel.
+- Connect and prepare data.
+- Utililze proper vizualtion to accurately represent data.
+- Effective dashboard design and interactivity.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
