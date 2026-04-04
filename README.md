@@ -2,7 +2,8 @@
 
 ## Objective
 
-The Sales Overview Dashboard project aimed to create an interactive dashboard that provides simple yet effective information through a clean medium. The primary focus was to minimize clutter while maintaining effectiveness. This experience was designed to explore the capabilities of Tableau.
+The Sales Overview Dashboard project aimed to create an interactive dashboard that provides simple yet effective information through a clean medium. The primary focus was to minimize clutter while maintaining effectiveness. This experience was designed to explore the capabilities of Tableau. This data set is from <a href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training"> Kaggle. </a>
+
 
 ### Skills Learned
 
