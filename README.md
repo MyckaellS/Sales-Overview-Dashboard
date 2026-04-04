@@ -8,7 +8,7 @@ The Sales Overview Dashboard project aimed to create an interactive dashboard th
 ### Skills Learned
 
 - Connect and prepare data.
-- Utililze proper vizualtion to accurately represent data.
+- Utililze proper vizualization to accurately represent data.
 - Effective dashboard design and interactivity.
 
 ## Dashboards
@@ -23,7 +23,7 @@ The second dashboard ranks product categories, providing insight into the relati
 
 ### Worksheet 3: Sales by Zip
 
-The third dashboard visualizes sales by location, allowing for the identification of key markets. This creates an channel for understanding how geographic distribution may influence delivery logistics and product preferences.
+The third dashboard visualizes sales by location, allowing for the identification of key markets. This creates a channel for understanding how geographic distribution may influence delivery logistics and product preferences.
 
 ### Worksheet 4: Sales by Seller
 
