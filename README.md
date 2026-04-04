@@ -14,6 +14,11 @@ This dashboard can be accessed on Tabluea Public
 - Utililze proper vizualization to accurately represent data.
 - Effective dashboard design and interactivity.
 
+## Dashboard
+
+<img width="1595" height="895" alt="Screenshot 2026-04-04 123154" src="https://github.com/user-attachments/assets/f4bc73a7-dc36-42ef-a709-c6119b973d2a" />
+
+
 ## Worksheets
 
 ### Worksheet 1: Sales by Month
