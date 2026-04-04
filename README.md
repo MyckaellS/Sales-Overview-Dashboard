@@ -10,11 +10,30 @@ The Sales Overview Dashboard project aimed to create an interactive dashboard th
 - Utililze proper vizualtion to accurately represent data.
 - Effective dashboard design and interactivity.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Dashboards
 
-Every screenshot should have some text explaining what the screenshot is about.
+### Worksheet 1: Sales by Month
 
-Example below.
+The first dashboard provides an overview of revenue over time, enabling a view of broader trends across product categories, sellers, and time.
 
+### Worksheet 2: Sales by Category
+
+The second dashboard ranks product categories, providing insight into the relative performance of each category.
+
+### Worksheet 3: Sales by Zip
+
+The third dashboard visualizes sales by location, allowing for the identification of key markets. This creates an channel for understanding how geographic distribution may influence delivery logistics and product preferences.
+
+### Worksheet 4: Sales by Seller
+
+The fourth dashboard ranks sellers, providing insight into the relative performance of each seller.
+
+### KPIs
+
+The KPIs displayed include total sales and total orders. They serve as key reference points for quick calculations and decision making.
+
+### Filters
+
+The dashboard is fully interactive through the use of filters, allowing users to refine views by year, month, and category. Additionally, seller specific filtering can be applied by selecting a corresponding column within the “Sales by Seller” worksheet.
+    
 *Ref 1: Network Diagram*
