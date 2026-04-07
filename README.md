@@ -11,7 +11,7 @@ This dashboard can be accessed on Tabluea Public
 ### Skills Learned
 
 - Connect and prepare data.
-- Utililze proper vizualization to accurately represent data.
+- Utililze proper visualization to accurately represent data.
 - Effective dashboard design and interactivity.
 
 ## Dashboard
